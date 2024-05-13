@@ -1,2 +1,2 @@
 # EventManager
-Dynamic Unity/C# Event Manager
+Dynamic Unity Event Manager
